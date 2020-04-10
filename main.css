@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+
+#btn_prompt{
+    padding: 10px;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.error{
+    position: relative;
+    top:10px;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.resultBallon{
+    text-align: center;
+    display: block;
+    margin: auto;
+    position: relative;
+    top:50px;
+}
+
+#display_error{
+    color: red;
+}
+
+#ballon{
+    padding: 10px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    font-size: 30px;
+}
